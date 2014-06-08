@@ -1,0 +1,20 @@
+{
+  "name": "express-4-sessions",
+  "version": "0.0.0",
+  "description": "Testing sessions in Express 4",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tleen/express-4-sessions.git"
+  },
+  "author": "Tom Leen <tl@thomasleen.com>",
+  "bugs": {
+    "url": "https://github.com/tleen/express-4-sessions/issues"
+  },
+  "homepage": "https://github.com/tleen/express-4-sessions",
+  "dependencies" : {
+    "cookie-parser" : "^1.1.0",
+    "express" : "^4.3.1",
+    "express-session" : "^1.2.1"
+  }
+}
